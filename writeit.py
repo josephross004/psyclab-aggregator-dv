@@ -17,7 +17,7 @@ def main(args):
     #^ index of trial index (e.g. L100.1)
     rf_writeColInd = int(args[8])
     #^ blank col
-    rf_timeCol = args[9]
+    rf_timeCol = int(args[9])
     # default: 2, 8, 6
     wr = csv.writer(open("output.csv", 'w'), quoting=csv.QUOTE_ALL)
     spamreader = list(csv.reader(open(rf)))
