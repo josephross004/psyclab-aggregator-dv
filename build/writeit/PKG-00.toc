@@ -1,5 +1,5 @@
 ('C:\\Users\\Joseph '
- 'Ross\\Documents\\F_Github\\psyclab-aggregator-dv\\build\\writeit\\writeit.pkg',
+ 'Ross\\Documents\\F_GitHub\\psyclab-aggregator-dv\\build\\writeit\\writeit.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
@@ -12,27 +12,27 @@
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
    'C:\\Users\\Joseph '
-   'Ross\\Documents\\F_Github\\psyclab-aggregator-dv\\build\\writeit\\PYZ-00.pyz',
+   'Ross\\Documents\\F_GitHub\\psyclab-aggregator-dv\\build\\writeit\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
    'C:\\Users\\Joseph '
-   'Ross\\Documents\\F_Github\\psyclab-aggregator-dv\\build\\writeit\\localpycs\\struct.pyc',
+   'Ross\\Documents\\F_GitHub\\psyclab-aggregator-dv\\build\\writeit\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
    'C:\\Users\\Joseph '
-   'Ross\\Documents\\F_Github\\psyclab-aggregator-dv\\build\\writeit\\localpycs\\pyimod01_archive.pyc',
+   'Ross\\Documents\\F_GitHub\\psyclab-aggregator-dv\\build\\writeit\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
    'C:\\Users\\Joseph '
-   'Ross\\Documents\\F_Github\\psyclab-aggregator-dv\\build\\writeit\\localpycs\\pyimod02_importers.pyc',
+   'Ross\\Documents\\F_GitHub\\psyclab-aggregator-dv\\build\\writeit\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
    'C:\\Users\\Joseph '
-   'Ross\\Documents\\F_Github\\psyclab-aggregator-dv\\build\\writeit\\localpycs\\pyimod03_ctypes.pyc',
+   'Ross\\Documents\\F_GitHub\\psyclab-aggregator-dv\\build\\writeit\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
    'C:\\Users\\Joseph '
-   'Ross\\Documents\\F_Github\\psyclab-aggregator-dv\\build\\writeit\\localpycs\\pyimod04_pywin32.pyc',
+   'Ross\\Documents\\F_GitHub\\psyclab-aggregator-dv\\build\\writeit\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\Joseph '

@@ -1,5 +1,5 @@
 ('C:\\Users\\Joseph '
- 'Ross\\Documents\\F_Github\\psyclab-aggregator-dv\\build\\writeit\\PYZ-00.pyz',
+ 'Ross\\Documents\\F_GitHub\\psyclab-aggregator-dv\\build\\writeit\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\Joseph '
    'Ross\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',

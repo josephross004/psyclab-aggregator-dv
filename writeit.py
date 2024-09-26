@@ -13,9 +13,9 @@ def main(args):
     mf_MSGColInd = int(args[6])
     #^ ind of column with messages in it, for writing
     #default: 2, 3, 6
-    rf_messageColInd = args[7]
+    rf_messageColInd = int(args[7])
     #^ index of trial index (e.g. L100.1)
-    rf_writeColInd = args[8]
+    rf_writeColInd = int(args[8])
     #^ blank col
     rf_timeCol = args[9]
     # default: 2, 8, 6
