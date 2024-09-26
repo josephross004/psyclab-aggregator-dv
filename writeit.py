@@ -29,8 +29,8 @@ def main(args):
         currentMessage = egg[mf_messageColInd]
         currentTime = egg[mf_timeColInd]
         currentMSG = egg[mf_MSGColInd]
+        print(currentMessage)
         for row in spamreader:
-            print(row)
             if(row[rf_messageColInd]==currentMessage and int(row[rf_timeCol])>=int(currentTime)):
                 row[rf_writeColInd]=currentMSG
                 print(row[rf_writeColInd])
