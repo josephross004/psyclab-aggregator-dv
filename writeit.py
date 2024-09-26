@@ -18,6 +18,7 @@ def main(args):
     rf_writeColInd = int(args[8])
     #^ blank col
     rf_timeCol = int(args[9])
+    print(type(rf_timeCol))
     # default: 2, 8, 6
     wr = csv.writer(open("output.csv", 'w'), quoting=csv.QUOTE_ALL)
     spamreader = list(csv.reader(open(rf)))
@@ -29,6 +30,7 @@ def main(args):
         currentTime = egg[mf_timeColInd]
         currentMSG = egg[mf_MSGColInd]
         for row in spamreader:
+            print(row)
             if(row[rf_messageColInd]==currentMessage and int(row[rf_timeCol])>=int(currentTime)):
                 row[rf_writeColInd]=currentMSG
                 print(row[rf_writeColInd])
